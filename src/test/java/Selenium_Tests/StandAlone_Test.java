@@ -19,6 +19,7 @@ public class StandAlone_Test {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
+		// new comments are added 
 		// Variables
 		String productName = "ZARA COAT 3";
 
