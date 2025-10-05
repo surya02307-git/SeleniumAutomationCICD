@@ -1,0 +1,8 @@
+Utilities\AbstractComponents.class
+PageObjects\LandingPage.class
+Resources\ExtentReporterNG.class
+PageObjects\ConfirmationPage.class
+PageObjects\ProductCatalogue.class
+PageObjects\CheckoutPage.class
+PageObjects\OrderPage.class
+PageObjects\CartPage.class
